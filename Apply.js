@@ -39,6 +39,7 @@
 
 // sayMyName.apply(this, [18, "banana", "vestido"]);
 
+// OBS: Eu não preciso fixar o meu array como parâmetro na função e adicionando um a um dentro do apply, com o arguments ele monta uma lista para mim então eu só preencho no meu apply para cada item do meu arguments.
 
 
 // exemplo 3

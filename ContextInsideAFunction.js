@@ -5,6 +5,7 @@
 this.name = "Away";
 
 function sayMyName(){
+    //O escopo local não vai pegar o escopo global
     console.log(this.name);    
 }
 
